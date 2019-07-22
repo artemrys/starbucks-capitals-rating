@@ -1,7 +1,7 @@
 # starbucks-capitals-ranking
 Repository for Medium article about searching Starbucks using Google Places API.
 
-Check it out @ Medium: https://medium.com/@rysartem/ranking-capitals-by-the-number-of-starbucks-2f4080680267
+Check it out @ Medium: https://medium.com/python4you/ranking-capitals-by-the-number-of-starbucks-2f4080680267
 
 ### Run
 
